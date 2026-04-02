@@ -68,11 +68,7 @@ python main.py
 
 ---
 
-## 📸 Results
 
-(Add your output images here — VERY IMPORTANT)
-
----
 
 ## 📊 Future Improvements
 
@@ -88,6 +84,10 @@ python main.py
 💻 AI & Web Developer
 
 ---
+🌐 Live Demo
+
+🚀 Check out the live project here:
+👉 https://saqib776.github.io/yolo-medsam-hybrid/
 
 ## 🌐 Connect with Me
 
